@@ -1,4 +1,4 @@
-declare module 'x-data-spreadsheet' {
+declare module '@soeren_balke/x-data-spreadsheet' {
   export interface Options {
     mode?: 'edit' | 'read';
     showToolbar?: boolean;
